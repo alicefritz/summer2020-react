@@ -7,7 +7,8 @@ function App() {
   const [sortedAsc, setSortedAsc] = useState(false);
 
   useEffect(() => {
-    fetch('https://alicefritz.github.io/summer2020/restaurants.json')
+    //fetch('https://alicefritz.github.io/summer2020/restaurants.json')
+    fetch('./public/restaurants.json')
     .then(data => data.json())
     .then(data =>
       setRestaurants(data.restaurants.map(restaurant => restaurant)))
