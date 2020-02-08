@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/summer2020-react/static/css/main.0af2d106.chunk.css",
-    "main.js": "/summer2020-react/static/js/main.c2f51b39.chunk.js",
-    "main.js.map": "/summer2020-react/static/js/main.c2f51b39.chunk.js.map",
+    "main.js": "/summer2020-react/static/js/main.b016e1e6.chunk.js",
+    "main.js.map": "/summer2020-react/static/js/main.b016e1e6.chunk.js.map",
     "runtime-main.js": "/summer2020-react/static/js/runtime-main.5a638911.js",
     "runtime-main.js.map": "/summer2020-react/static/js/runtime-main.5a638911.js.map",
     "static/js/2.34042c04.chunk.js": "/summer2020-react/static/js/2.34042c04.chunk.js",
     "static/js/2.34042c04.chunk.js.map": "/summer2020-react/static/js/2.34042c04.chunk.js.map",
     "index.html": "/summer2020-react/index.html",
-    "precache-manifest.fc6ba9a8b447b91ec47391a7c99b2bb2.js": "/summer2020-react/precache-manifest.fc6ba9a8b447b91ec47391a7c99b2bb2.js",
+    "precache-manifest.7ed9a7124fbb5834ea34eca77236d29b.js": "/summer2020-react/precache-manifest.7ed9a7124fbb5834ea34eca77236d29b.js",
     "service-worker.js": "/summer2020-react/service-worker.js",
     "static/css/main.0af2d106.chunk.css.map": "/summer2020-react/static/css/main.0af2d106.chunk.css.map",
     "static/js/2.34042c04.chunk.js.LICENSE.txt": "/summer2020-react/static/js/2.34042c04.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5a638911.js",
     "static/js/2.34042c04.chunk.js",
     "static/css/main.0af2d106.chunk.css",
-    "static/js/main.c2f51b39.chunk.js"
+    "static/js/main.b016e1e6.chunk.js"
   ]
 }
