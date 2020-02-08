@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/summer2020-react/precache-manifest.7ed9a7124fbb5834ea34eca77236d29b.js"
+  "/summer2020-react/precache-manifest.fc6ba9a8b447b91ec47391a7c99b2bb2.js"
 );
 
 self.addEventListener('message', (event) => {
